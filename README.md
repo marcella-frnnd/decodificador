@@ -4,4 +4,6 @@ Projeto desenvolvido para o Challenge Final do curso de formação "Iniciante em
 
 O projeto implementa o Challenge Based Learning, desenvolvido com ajuda da Apple, e consiste em um decodificador de textos. O usuário insere um texto em português e recebe uma saída que é um texto encriptado. Também é possível fazer o inverso, ou seja, inserir um texto encriptado e receber uma saída desencriptada, em português, sem acentos.
 
+Experimente as funcionalidades do decodificador aqui: https://marcella-frnnd.github.io/decodificador/
+
 ![screenshot do decodificador](https://github.com/user-attachments/assets/d938741c-d1c8-4349-9a2b-96c9a22784c8)
